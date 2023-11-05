@@ -7,4 +7,4 @@ https://edhernandez.itch.io/tigerhacks2023
 
 
 Thanks to:
-Brock for general support, Kyle for kickstarting the project,Joesph for backgrounds and main character anim.
+Brock for general support, Kyle for kickstarting the project, Joseph for backgrounds and main character anim.
